@@ -231,7 +231,7 @@ class Fit(LigandEquib):
 if __name__ == "__main__":
     
     # change filename below
-    fname = './test_data/TRAAK-POPA_example_data.txt'
+    fname = './TRAAK-POPA_example_data.txt'
     fit = Fit(fname)
 
     # simple fit 
